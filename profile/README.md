@@ -1,6 +1,6 @@
 # Orion Trading Platform
 
-A distributed paper-trading platform that lets users place simulated stock orders against real-time market data, track portfolio performance, and view detailed ledger history. Built as a semester-long software engineering project at Rice University (COMP 413, Spring 2026).
+A distributed paper-trading platform that lets users place simulated stock orders against real-time market data, track portfolio performance, and view detailed ledger history. Built as a semester-long software engineering project at Rice University (COMP 413, Spring 2026), a course designed to simulate a fast-paced startup environment where students self-organize into teams, define milestones, and deliver an integrated software product.
 
 ## Architecture
 
